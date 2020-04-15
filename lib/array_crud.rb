@@ -38,4 +38,5 @@ end
 
 def retrieve_last_element_from_array(array)
   colors = ["wow", "blue", "am", "arrays!"]
+  colors.last
 end
